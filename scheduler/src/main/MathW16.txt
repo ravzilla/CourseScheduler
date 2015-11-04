@@ -1,0 +1,186 @@
+UC Irvine Office of the Registrar
+		      Schedule of Classes    Tuesday, November 3, 2015
+
+Search Criteria:
+    Department: MATH
+    Exclude cancelled courses
+
+
+Winter Quarter, 2016      Registration for term begins on Monday, November 16, 2015
+
+
+   #########################################################################
+   ###                                                                   ###
+   ###                    School of Physical Sciences                    ###
+   ###                                                                   ###
+   ###  DROP: The deadline to drop courses in the School of Physical     ###
+   ###  Sciences is the end of Week 2 by 5:00PM. Drops can be made in    ###
+   ###  WebReg.                                                          ###
+   ###                                                                   ###
+   ###  CHANGE: The deadline to change grade option or variable units is ###
+   ###  the end of Week 2 by 5:00PM. Changes can be made in WebReg.      ###
+   ###                                                                   ###
+   ###  ADD: The deadline to add courses in the School of Physical       ###
+   ###  Sciences is the end of week 2 by 5:00PM. Adds can be made in     ###
+   ###  WebReg.                                                          ###
+   ###                                                                   ###
+   #########################################################################
+
+       _________________________________________________________________
+
+                                 Mathematics
+
+        Refer to
+        http://math.uci.edu/undergrad-courses/course-registration-and-placement-information##3
+        for the Department's Add/Drop and Waitlist Policy. Many sections
+        will fill to capacity, so plan schedules carefully.
+
+        WARNING: Being on the electronic waitlist does NOT guarantee a
+        seat in the course.
+
+        IMPORTANT: Refer to
+        http://math.uci.edu/undergrad-courses/course-registration-and-placement-information#Top
+        for additional information on Mathematics undergraduate course
+        enrollment procedures. Graduate students have last priority in
+        enrollment in undergraduate courses.
+
+        REPEAT STUDENTS: You will NOT have access to lower-division Math
+        courses you wish to repeat when your enrollment window opens. If
+        your grade was an F, enroll on December 19, as space permits,
+        via WebReg. If your grade was between a C- and D-, enroll on the
+        first day of class, as space permits, via WebReg. An alternative
+        is to retake the class in Summer Session.
+       _________________________________________________________________
+
+Math     1B        PRE-CALCULUS
+      ~ Math 1B course will be taught entirely online. The course will have one
+      ~    midterm and one final exam. The students will take the exams online
+      ~    through an online proctoring service for a $40 fee per exam. Details
+      ~    about exam times will be provided during the first week of the
+      ~    course.
+    CCode Typ Sec Unt  Instructor       Time                 Place     Final                      Max Enr     WL Req Nor Rstr Status 
+    44000 LEC A   4    STAFF            *TBA*                ON LINE   TBA                        400   0      0   0   0 A    OPEN   
+    44005 DIS 10  0    STAFF            M        8:00- 8:50  BS3 1200                             400   0      0   0   0 A    OPEN   
+    44015 LEC B   4    STAFF            *TBA*                *TBA*     TBA                          0   0    n/a   0   0 A    FULL   
+    44020 DIS 20  0    STAFF            *TBA*                *TBA*                                  0   0    n/a   0   0 A    FULL   
+
+Math     2A        CALCULUS
+      ~ WARNING: During Open Enrollment, the Mathematics Department will run
+      ~    "Prerequisite Checks," and WILL DROP FROM MATH 2A students who have
+      ~    not satisfied the prerequisites for Math 2A; the spaces in Math 2A
+      ~    formerly allocated to those students would then be opened to others.
+    CCode Typ Sec Unt  Instructor       Time                 Place     Final                      Max Enr     WL Req Nor Rstr Status 
+    44200 LEC A   4    STAFF            MWF      8:00- 8:50  DBH 1100  Sat, Mar 12, 1:30-3:30pm   208   0      0   0   0 A    OPEN   
+    44201 DIS 10  0    STAFF            TuTh     9:00- 9:50  ICF 103                               53   0      0   0   0 A    OPEN   
+    44202 DIS 11  0    STAFF            TuTh    10:00-10:50  HICF 100M                             45   0      0   0   0 A    OPEN   
+    44203 DIS 12  0    STAFF            MW      11:00-11:50  MSTB 124                              46   0      0   0   0 A    OPEN   
+    44204 DIS 13  0    STAFF            MW       1:00- 1:50p ICF 103                               64   0      0   0   0 A    OPEN   
+    44210 LEC B   4    STAFF            MWF      9:00- 9:50  RH 104    Sat, Mar 12, 1:30-3:30pm   115   0      0   0   0 A    OPEN   
+    44211 DIS 20  0    STAFF            TuTh     8:00- 8:50  MSTB 124                              54   0      0   0   0 A    OPEN   
+    44212 DIS 21  0    STAFF            TuTh    12:00-12:50p ICF 103                               61   0      0   0   0 A    OPEN   
+    44240 LEC C   4    STAFF            MWF      4:00- 4:50p HG 1800   Sat, Mar 12, 1:30-3:30pm   113   0      0   0   0 A    OPEN   
+    44241 DIS 30  0    STAFF            MW       2:00- 2:50p ICF 103                               60   0      0   0   0 A    OPEN   
+    44242 DIS 31  0    STAFF            TuTh     2:00- 2:50p MSTB 122                              53   0      0   0   0 A    OPEN   
+    44250 LEC D   4    STAFF            MWF     12:00-12:50p RH 104    Sat, Mar 12, 1:30-3:30pm   119   0      0   0   0 A    OPEN   
+    44251 DIS 40  0    STAFF            MW       3:00- 3:50p ICF 103                               59   0      0   0   0 A    OPEN   
+    44252 DIS 41  0    STAFF            TuTh     8:00- 8:50  ET 202                                60   0      0   0   0 A    OPEN   
+    44270 LEC E   4    STAFF            MWF      1:00- 1:50p HH 178    Sat, Mar 12, 1:30-3:30pm   118   0      0   0   0 A    OPEN   
+    44271 DIS 50  0    STAFF            TuTh     2:00- 2:50p MSTB 124                              59   0      0   0   0 A    OPEN   
+    44272 DIS 51  0    STAFF            TuTh     4:00- 4:50p MSTB 124                              59   0      0   0   0 A    OPEN   
+    44280 LEC F   4    STAFF            MWF      2:00- 2:50p RH 104    Sat, Mar 12, 1:30-3:30pm   120   0      0   0   0 A    OPEN   
+    44281 DIS 60  0    STAFF            TuTh     1:00- 1:50p ET 202                                60   0      0   0   0 A    OPEN   
+    44282 DIS 61  0    STAFF            TuTh     4:00- 4:50p SST 220B                              60   0      0   0   0 A    OPEN   
+    44290 LEC G   4    STAFF            MWF      2:00- 2:50p ELH 100   Sat, Mar 12, 1:30-3:30pm   219   0      0   0   0 A    OPEN   
+    44291 DIS 71  0    STAFF            TuTh     8:00- 8:50  MSTB 122                              44   0      0   0   0 A    OPEN   
+    44292 DIS 72  0    STAFF            TuTh     5:00- 5:50p ET 202                                60   0      0   0   0 A    OPEN   
+    44293 DIS 73  0    STAFF            WF      10:00-10:50  SSTR 103                              60   0      0   0   0 A    OPEN   
+    44294 DIS 74  0    STAFF            MW       5:00- 5:50p ET 202                                55   0      0   0   0 A    OPEN   
+    44295 LEC H   4    STAFF            *TBA*                *TBA*     Sat, Mar 12, 1:30-3:30pm     0   0    n/a   0   0 A    FULL   
+    44296 DIS 75  0    STAFF            *TBA*                *TBA*                                  0   0    n/a   0   0 A    FULL   
+    44297 DIS 76  0    STAFF            *TBA*                *TBA*                                  0   0    n/a   0   0 A    FULL   
+
+Math     2B        CALCULUS
+      ~ WARNING: During Open Enrollment,  the Mathematics Department will run
+      ~    "Prerequisite Checks," and WILL DROP FROM MATH 2B students who have
+      ~    not satisfied the prerequisites for the Math 2B; the spaces in Math
+      ~    2B formerly allocated to those students would then be opened to
+      ~    others.
+    CCode Typ Sec Unt  Instructor       Time                 Place     Final                      Max Enr     WL Req Nor Rstr Status 
+    44350 LEC A   4    STAFF            MWF      8:00- 8:50  HIB 100   Sat, Mar 12, 1:30-3:30pm   230   0      0   0   0 A    OPEN   
+    44351 DIS 10  0    STAFF            TuTh    11:00-11:50  ET 202                                60   0      0   0   0 A    OPEN   
+    44352 DIS 11  0    STAFF            TuTh    12:00-12:50p MSTB 124                              59   0      0   0   0 A    OPEN   
+    44353 DIS 12  0    STAFF            TuTh     1:00- 1:50p MSTB 124                              59   0      0   0   0 A    OPEN   
+    44354 DIS 13  0    STAFF            TuTh     2:00- 2:50p ET 202                                52   0      0   0   0 A    OPEN   
+    44360 LEC B   4    STAFF            MWF      9:00- 9:50  HG 1800   Sat, Mar 12, 1:30-3:30pm   114   0      0   0   0 A    OPEN   
+      ~ Enrollment in Math 2B Lecture B will be restricted to majors in the
+      ~    schools of Physical Sciences, Engineering, and Information and
+      ~    Computer Sciences until 12:00pm on December 18th.
+    44361 DIS 20  0    STAFF            TuTh     9:00- 9:50  ET 202                                60   0      0   0   0 A    OPEN   
+    44362 DIS 21  0    STAFF            TuTh    12:00-12:50p MSTB 122                              54   0      0   0   0 A    OPEN   
+    44370 LEC C   4    STAFF            MWF     10:00-10:50  DBH 1600  Sat, Mar 12, 1:30-3:30pm   118   0      0   0   0 A    OPEN   
+    44371 DIS 30  0    STAFF            TuTh    11:00-11:50  MSTB 124                              59   0      0   0   0 A    OPEN   
+    44372 DIS 31  0    STAFF            TuTh     3:00- 3:50p MSTB 124                              59   0      0   0   0 A    OPEN   
+    44380 LEC D   4    STAFF            MWF      1:00- 1:50p ELH 100   Sat, Mar 12, 1:30-3:30pm   230   0      0   0   0 A    OPEN   
+      ~ Enrollment in Math 2B Lecture D will be restricted to majors in the
+      ~    schools of Physical Sciences, Engineering, and Information and
+      ~    Computer Sciences until 12:00pm on December 18th.
+    44381 DIS 40  0    STAFF            TuTh     8:00- 8:50  ICF 103                               73   0      0   0   0 A    OPEN   
+    44382 DIS 41  0    STAFF            TuTh    11:00-11:50  RH 114                                47   0      0   0   0 A    OPEN   
+    44383 DIS 42  0    STAFF            TuTh    12:00-12:50p RH 114                                47   0      0   0   0 A    OPEN   
+    44385 DIS 43  0    STAFF            TuTh     5:00- 5:50p MSTB 118                              63   0      0   0   0 A    OPEN   
+    44390 LEC E   4    STAFF            MWF     12:00-12:50p DBH 1600  Sat, Mar 12, 1:30-3:30pm   114   0      0   0   0 A    OPEN   
+    44395 DIS 50  0    STAFF            TuTh    11:00-11:50  MSTB 122                              54   0      0   0   0 A    OPEN   
+    44400 DIS 51  0    STAFF            TuTh     3:00- 3:50p ET 202                                60   0      0   0   0 A    OPEN   
+    44410 LEC F   4    STAFF            MWF      1:00- 1:50p PCB 1100  Sat, Mar 12, 1:30-3:30pm   115   0      0   0   0 A    OPEN   
+    44411 DIS 60  0    STAFF            TuTh     3:00- 3:50p RH 114                                47   0      0   0   0 A    OPEN   
+    44413 DIS 62  0    STAFF            TuTh     2:00- 2:50p ICF 103                               68   0      0   0   0 A    OPEN   
+    44420 LEC G   4    STAFF            MWF      3:00- 3:50p DBH 1600  Sat, Mar 12, 1:30-3:30pm   114   0      0   0   0 A    OPEN   
+    44421 DIS 70  0    STAFF            TuTh     1:00- 1:50p MSTB 122                              54   0      0   0   0 A    OPEN   
+    44422 DIS 71  0    STAFF            TuTh     4:00- 4:50p ET 202                                60   0      0   0   0 A    OPEN   
+    44440 LEC H   4    STAFF            MWF     11:00-11:50  SSL 228   Sat, Mar 12, 1:30-3:30pm   104   0      0   0   0 A    OPEN   
+    44445 DIS 80  0    STAFF            TuTh     8:00- 8:50  HIB 110                               59   0      0   0   0 A    OPEN   
+    44450 DIS 81  0    STAFF            TuTh     5:00- 5:50p HICF 100L                             45   0      0   0   0 A    OPEN   
+    44460 LEC I   4    STAFF            MWF      8:00- 8:50  RH 104    Sat, Mar 12, 1:30-3:30pm   116   0      0   0   0 A    OPEN   
+    44461 DIS 91  0    STAFF            MW      11:00-11:50  ICF 103                               70   0      0   0   0 A    OPEN   
+    44462 DIS 92  0    STAFF            TuTh     8:00- 8:50  SST 220B                              46   0      0   0   0 A    OPEN   
+    44470 LEC J   4    STAFF            MWF      5:00- 5:50p SSH 100   Sat, Mar 12, 1:30-3:30pm   118   0      0   0   0 A    OPEN   
+    44471 DIS 100 0    STAFF            TuTh     5:00- 5:50p MSTB 124                              59   0      0   0   0 A    OPEN   
+    44472 DIS 101 0    STAFF            TuTh     6:00- 6:50p MSTB 124                              59   0      0   0   0 A    OPEN   
+    44480 LEC K   4    STAFF            MWF     10:00-10:50  RH 104    Sat, Mar 12, 1:30-3:30pm   120   0      0   0   0 A    OPEN   
+    44481 DIS 110 0    STAFF            TuTh     5:00- 5:50p PSCB 140                              60   0      0   0   0 A    OPEN   
+    44482 DIS 111 0    STAFF            TuTh     8:00- 8:50  SE2 1304                              61   0      0   0   0 A    OPEN   
+    44483 LEC L   4    STAFF            *TBA*                *TBA*     Sat, Mar 12, 1:30-3:30pm     0   0    n/a   0   0 A    FULL   
+    44484 DIS 112 0    STAFF            *TBA*                *TBA*                                  0   0    n/a   0   0 A    FULL   
+    44485 DIS 113 0    STAFF            *TBA*                *TBA*                                  0   0    n/a   0   0 A    FULL   
+
+Math     2D        MULTIVAR CALCULUS
+      ~ Enrollment in Math 2D is restricted to majors in the schools of
+      ~    Physical Sciences, Engineering, and Information and Computer
+      ~    Sciences until 12:00pm on December 18th.
+    CCode Typ Sec Unt  Instructor       Time                 Place     Final                      Max Enr     WL Req Nor Rstr Status 
+    44500 LEC A   4    STAFF            MWF      8:00- 8:50  HH 178    Mon, Mar 14, 8:00-10:00am  119   0      0   0   0 A    OPEN   
+    44501 DIS 10  0    STAFF            TuTh     1:00- 1:50p RH 114                                47   0      0   0   0 A    OPEN   
+    44502 DIS 11  0    STAFF            TuTh     4:00- 4:50p ICF 103                               72   0      0   0   0 A    OPEN   
+    44510 LEC B   4    STAFF            MWF      1:00- 1:50p HIB 100   Wed, Mar 16, 1:30-3:30pm   238   0      0   0   0 A    OPEN   
+    44511 DIS 20  0    STAFF            TuTh     8:00- 8:50  MSTB 118                              73   0      0   0   0 A    OPEN   
+    44512 DIS 21  0    STAFF            TuTh    12:00-12:50p HICF 100M                             45   0      0   0   0 A    OPEN   
+    44521 DIS 22  0    STAFF            TuTh     5:00- 5:50p SH 128                                75   0      0   0   0 A    OPEN   
+    44522 DIS 23  0    STAFF            TuTh     4:00- 4:50p HICF 100M                             45   0      0   0   0 A    OPEN   
+    44530 LEC C   4    STAFF            MWF      3:00- 3:50p SSL 270   Mon, Mar 14, 4:00-6:00pm    99   0      0   0   0 A    OPEN   
+    44531 DIS 30  0    STAFF            TuTh     8:00- 8:50  SH 174                                52   0      0   0   0 A    OPEN   
+    44532 DIS 31  0    STAFF            TuTh     4:00- 4:50p RH 114                                47   0      0   0   0 A    OPEN   
+    44533 LEC D   4    STAFF            *TBA*                *TBA*     TBA                          0   0    n/a   0   0 A    FULL   
+    44534 DIS 32  0    STAFF            *TBA*                *TBA*                                  0   0    n/a   0   0 A    FULL   
+    44535 DIS 33  0    STAFF            *TBA*                *TBA*                                  0   0    n/a   0   0 A    FULL   
+
+Math     2E        MULTIVAR CALCULUS
+      ~ Enrollment in Math 2E is restricted to majors in the Schools of
+      ~    Physical Sciences and Engineering until 12:00pm on December 18th.
+    CCode Typ Sec Unt  Instructor       Time                 Place     Final                      Max Enr     WL Req Nor Rstr Status 
+    44550 LEC A   4    STAFF            MWF     11:00-11:50  DBH 1600  Fri, Mar 18, 8:00-10:00am  117   0      0   0   0 A    OPEN   
+    44551 DIS 10  0    STAFF            TuTh     8:00- 8:50  SH 128                                72   0      0   0   0 A    OPEN   
+    44552 DIS 11  0    STAFF            TuTh     2:00- 2:50p HICF 100M                             45   0      0   0   0 A    OPEN   
+    44560 LEC B   4    STAFF            MWF      8:00- 8:50  DBH 1600  Mon, Mar 14, 8:00-10:00am  120   0      0   0   0 A    OPEN   
+    44561 DIS 20  0    STAFF            TuTh     1:00- 1:50p HICF 100M                             45   0      0   0   0 A    OPEN   
+    44562 DIS 21  0    STAFF            TuTh     5:00- 5:50p ICF 103                               75   0      0   0   0 A    OPEN   
+
