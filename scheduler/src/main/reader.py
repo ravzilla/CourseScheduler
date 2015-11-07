@@ -6,6 +6,7 @@ Created on Nov 3, 2015
 
 
 def read_file(name:str)->list:
+    
     f = open(name,'r')
     data = f.readlines()
     f.close()
@@ -17,7 +18,8 @@ def return_class(school:str,code:str,name:str)->list:
         l= data.split()
         
         if len(l)!=0:
-           if l[0] == school and l[1]==code:
+            print(l)
+            if l[0] == school and l[1]==code:
                return parse_class(lineNum,wF)
                break
           
@@ -27,13 +29,12 @@ def parse_class(lineNum:int,data:list)->list:
     for n,d in enumerate(data[lineNum+1:]):
         
         l = d.split()
-       
+     
         if len(l)!=0:
                
             if l[0] != 'CCode' and l[0] != '~':
                 if l[6] != '*TBA*' :
-                  print(parse_time([l[6],l[7]]))
-                classes.append([int(l[0]),l[1],(l[5])])
+                    classes.append([int(l[0]),l[1],(l[5]),True if l[-1] == 'OPEN' else False,parse_time([l[6],l[7]])])
               
         else:
             break
@@ -53,21 +54,23 @@ def parse_time(comb:list):
         s=comb[0]+comb[1]
     else:
         s=comb[0]
-    
+    ampmChange = False
     pm = False
-    if s[-1] == 'p' and s[0:2] !='12':
+    if s[-1] == 'p':
         pm = True
         s=s[:-1]
-    elif s[0:2] == '12':
-        s=s[:-1]
-    
+ 
     time = []
     for i,v in enumerate(s.split('-')[0].split(':')+s.split('-')[1].split(':')):
         time.append(int(v))
     if pm:
-        time[0] += 12
+        if time[0] == 12 and time[2] < 12:
+            ampmChange = True
+    if pm:
+        if not ampmChange:
+            time[0] += 12
         time[2] += 12
-        
+    
     pm = False
-  
+   
     return time

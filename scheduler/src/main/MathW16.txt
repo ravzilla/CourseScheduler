@@ -181,6 +181,6 @@ Math     2E        MULTIVAR CALCULUS
     44551 DIS 10  0    STAFF            TuTh     8:00- 8:50  SH 128                                72   0      0   0   0 A    OPEN   
     44552 DIS 11  0    STAFF            TuTh     2:00- 2:50p HICF 100M                             45   0      0   0   0 A    OPEN   
     44560 LEC B   4    STAFF            MWF      8:00- 8:50  DBH 1600  Mon, Mar 14, 8:00-10:00am  120   0      0   0   0 A    OPEN   
-    44561 DIS 20  0    STAFF            TuTh     1:00- 1:50p HICF 100M                             45   0      0   0   0 A    OPEN   
+    44561 DIS 20  0    STAFF            TuTh    12:00- 1:50p HICF 100M                             45   0      0   0   0 A    OPEN   
     44562 DIS 21  0    STAFF            TuTh     5:00- 5:50p ICF 103                               75   0      0   0   0 A    OPEN   
 
