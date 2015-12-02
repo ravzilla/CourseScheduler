@@ -4,9 +4,8 @@ Created on Nov 3, 2015
 @author: Ravi
 '''
 
-
+import datetime
 def read_file(name:str)->list:
-    
     f = open(name,'r')
     data = f.readlines()
     f.close()
@@ -18,10 +17,11 @@ def return_class(school:str,code:str,name:str)->list:
         l= data.split()
         
         if len(l)!=0:
-            print(l)
-            if l[0] == school and l[1]==code:
-               return parse_class(lineNum,wF)
-               break
+          
+            if l[0] == school:
+                if l[1]==code or l[2] == code:
+                    return parse_class(lineNum,wF)
+                    break
           
 def parse_class(lineNum:int,data:list)->list: 
     
@@ -72,5 +72,5 @@ def parse_time(comb:list):
         time[2] += 12
     
     pm = False
-   
-    return time
+    
+    return [datetime.time(hour = time[0], minute = time[1]),datetime.time(hour = time[2], minute = time[3])]

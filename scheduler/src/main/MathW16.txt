@@ -1,5 +1,5 @@
-UC Irvine Office of the Registrar
-		      Schedule of Classes    Tuesday, November 3, 2015
+			UC Irvine Office of the Registrar
+		      Schedule of Classes    Friday, November 6, 2015
 
 Search Criteria:
     Department: MATH
@@ -111,7 +111,7 @@ Math     2B        CALCULUS
     44352 DIS 11  0    STAFF            TuTh    12:00-12:50p MSTB 124                              59   0      0   0   0 A    OPEN   
     44353 DIS 12  0    STAFF            TuTh     1:00- 1:50p MSTB 124                              59   0      0   0   0 A    OPEN   
     44354 DIS 13  0    STAFF            TuTh     2:00- 2:50p ET 202                                52   0      0   0   0 A    OPEN   
-    44360 LEC B   4    STAFF            MWF      9:00- 9:50  HG 1800   Sat, Mar 12, 1:30-3:30pm   114   0      0   0   0 A    OPEN   
+    44360 LEC B   4    STAFF            MWF      9:00- 9:50  HG 1800   Sat, Mar 12, 1:30-3:30pm   114   0      0   0   0 A&N  OPEN   
       ~ Enrollment in Math 2B Lecture B will be restricted to majors in the
       ~    schools of Physical Sciences, Engineering, and Information and
       ~    Computer Sciences until 12:00pm on December 18th.
@@ -120,7 +120,7 @@ Math     2B        CALCULUS
     44370 LEC C   4    STAFF            MWF     10:00-10:50  DBH 1600  Sat, Mar 12, 1:30-3:30pm   118   0      0   0   0 A    OPEN   
     44371 DIS 30  0    STAFF            TuTh    11:00-11:50  MSTB 124                              59   0      0   0   0 A    OPEN   
     44372 DIS 31  0    STAFF            TuTh     3:00- 3:50p MSTB 124                              59   0      0   0   0 A    OPEN   
-    44380 LEC D   4    STAFF            MWF      1:00- 1:50p ELH 100   Sat, Mar 12, 1:30-3:30pm   230   0      0   0   0 A    OPEN   
+    44380 LEC D   4    STAFF            MWF      1:00- 1:50p ELH 100   Sat, Mar 12, 1:30-3:30pm   230   0      0   0   0 A&N  OPEN   
       ~ Enrollment in Math 2B Lecture D will be restricted to majors in the
       ~    schools of Physical Sciences, Engineering, and Information and
       ~    Computer Sciences until 12:00pm on December 18th.
@@ -158,18 +158,18 @@ Math     2D        MULTIVAR CALCULUS
       ~    Physical Sciences, Engineering, and Information and Computer
       ~    Sciences until 12:00pm on December 18th.
     CCode Typ Sec Unt  Instructor       Time                 Place     Final                      Max Enr     WL Req Nor Rstr Status 
-    44500 LEC A   4    STAFF            MWF      8:00- 8:50  HH 178    Mon, Mar 14, 8:00-10:00am  119   0      0   0   0 A    OPEN   
+    44500 LEC A   4    STAFF            MWF      8:00- 8:50  HH 178    Mon, Mar 14, 8:00-10:00am  119   0      0   0   0 A&N  OPEN   
     44501 DIS 10  0    STAFF            TuTh     1:00- 1:50p RH 114                                47   0      0   0   0 A    OPEN   
     44502 DIS 11  0    STAFF            TuTh     4:00- 4:50p ICF 103                               72   0      0   0   0 A    OPEN   
-    44510 LEC B   4    STAFF            MWF      1:00- 1:50p HIB 100   Wed, Mar 16, 1:30-3:30pm   238   0      0   0   0 A    OPEN   
+    44510 LEC B   4    STAFF            MWF      1:00- 1:50p HIB 100   Wed, Mar 16, 1:30-3:30pm   238   0      0   0   0 A&N  OPEN   
     44511 DIS 20  0    STAFF            TuTh     8:00- 8:50  MSTB 118                              73   0      0   0   0 A    OPEN   
     44512 DIS 21  0    STAFF            TuTh    12:00-12:50p HICF 100M                             45   0      0   0   0 A    OPEN   
     44521 DIS 22  0    STAFF            TuTh     5:00- 5:50p SH 128                                75   0      0   0   0 A    OPEN   
     44522 DIS 23  0    STAFF            TuTh     4:00- 4:50p HICF 100M                             45   0      0   0   0 A    OPEN   
-    44530 LEC C   4    STAFF            MWF      3:00- 3:50p SSL 270   Mon, Mar 14, 4:00-6:00pm    99   0      0   0   0 A    OPEN   
+    44530 LEC C   4    STAFF            MWF      3:00- 3:50p SSL 270   Mon, Mar 14, 4:00-6:00pm    99   0      0   0   0 A&N  OPEN   
     44531 DIS 30  0    STAFF            TuTh     8:00- 8:50  SH 174                                52   0      0   0   0 A    OPEN   
     44532 DIS 31  0    STAFF            TuTh     4:00- 4:50p RH 114                                47   0      0   0   0 A    OPEN   
-    44533 LEC D   4    STAFF            *TBA*                *TBA*     TBA                          0   0    n/a   0   0 A    FULL   
+    44533 LEC D   4    STAFF            *TBA*                *TBA*     TBA                          0   0    n/a   0   0 A&N  FULL   
     44534 DIS 32  0    STAFF            *TBA*                *TBA*                                  0   0    n/a   0   0 A    FULL   
     44535 DIS 33  0    STAFF            *TBA*                *TBA*                                  0   0    n/a   0   0 A    FULL   
 
@@ -177,10 +177,520 @@ Math     2E        MULTIVAR CALCULUS
       ~ Enrollment in Math 2E is restricted to majors in the Schools of
       ~    Physical Sciences and Engineering until 12:00pm on December 18th.
     CCode Typ Sec Unt  Instructor       Time                 Place     Final                      Max Enr     WL Req Nor Rstr Status 
-    44550 LEC A   4    STAFF            MWF     11:00-11:50  DBH 1600  Fri, Mar 18, 8:00-10:00am  117   0      0   0   0 A    OPEN   
+    44550 LEC A   4    STAFF            MWF     11:00-11:50  DBH 1600  Fri, Mar 18, 8:00-10:00am  117   0      0   0   0 A&N  OPEN   
     44551 DIS 10  0    STAFF            TuTh     8:00- 8:50  SH 128                                72   0      0   0   0 A    OPEN   
     44552 DIS 11  0    STAFF            TuTh     2:00- 2:50p HICF 100M                             45   0      0   0   0 A    OPEN   
-    44560 LEC B   4    STAFF            MWF      8:00- 8:50  DBH 1600  Mon, Mar 14, 8:00-10:00am  120   0      0   0   0 A    OPEN   
-    44561 DIS 20  0    STAFF            TuTh    12:00- 1:50p HICF 100M                             45   0      0   0   0 A    OPEN   
+    44560 LEC B   4    STAFF            MWF      8:00- 8:50  DBH 1600  Mon, Mar 14, 8:00-10:00am  120   0      0   0   0 A&N  OPEN   
+    44561 DIS 20  0    STAFF            TuTh     1:00- 1:50p HICF 100M                             45   0      0   0   0 A    OPEN   
     44562 DIS 21  0    STAFF            TuTh     5:00- 5:50p ICF 103                               75   0      0   0   0 A    OPEN   
 
+Math     3A        INTRO LINEAR ALGBRA
+      ~ Enrollment in Math 3A will be restricted to Math majors and the majors
+      ~    in the schools of Physical Sciences, Engineering, and Information
+      ~    and Computer Sciences until 12:00pm on December 18th.
+    CCode Typ Sec Unt  Instructor       Time                 Place     Final                      Max Enr     WL Req Nor Rstr Status 
+    44580 LEC A   4    STAFF            MWF      8:00- 8:50  ET 202    Mon, Mar 14, 8:00-10:00am   59   0      0   0   0 A&N  OPEN   
+    44581 DIS 10  0    STAFF            TuTh    10:00-10:50  ET 202                                59   0      0   0   0 A    OPEN   
+    44585 LEC B   4    STAFF            MWF     12:00-12:50p ET 202    Mon, Mar 14, 1:30-3:30pm    60   0      0   0   0 A&N  OPEN   
+    44586 DIS 20  0    STAFF            TuTh    12:00-12:50p ET 202                                60   0      0   0   0 A    OPEN   
+    44590 LEC C   4    STAFF            MWF     10:00-10:50  DBH 1500  Mon, Mar 14, 10:30-12:30pm  65   0      0   0   0 A&N  OPEN   
+    44591 DIS 30  0    STAFF            TuTh     8:00- 8:50  PSCB 120                              65   0      0   0   0 A    OPEN   
+    44595 LEC D   4    STAFF            MWF      5:00- 5:50p MSTB 122  Wed, Mar 16, 10:30-12:30pm  54   0      0   0   0 A&N  OPEN   
+    44596 DIS 40  0    STAFF            TuTh     5:00- 5:50p MSTB 122                              54   0      0   0   0 A    OPEN   
+    44600 LEC E   4    STAFF            MWF      4:00- 4:50p MSTB 122  Wed, Mar 16, 4:00-6:00pm    54   0      0   0   0 A&N  OPEN   
+    44601 DIS 50  0    STAFF            TuTh     8:00- 8:50  HH 143                                54   0      0   0   0 A    OPEN   
+    44605 LEC F   4    STAFF            MWF      3:00- 3:50p SH 128    Mon, Mar 14, 4:00-6:00pm    60   0      0   0   0 A&N  OPEN   
+    44606 DIS 60  0    STAFF            TuTh     8:00- 8:50  SST 220A                              60   0      0   0   0 A    OPEN   
+    44610 LEC G   4    STAFF            MWF      1:00- 1:50p SE2 1304  Wed, Mar 16, 1:30-3:30pm    65   0      0   0   0 A&N  OPEN   
+    44611 DIS 70  0    STAFF            TuTh     8:00- 8:50  DBH 1500                              65   0      0   0   0 A    OPEN   
+    44615 LEC H   4    STAFF            MWF      2:00- 2:50p SE2 1304  Fri, Mar 18, 1:30-3:30pm    64   0      0   0   0 A&N  OPEN   
+    44616 DIS 80  0    STAFF            *TBA*                *TBA*                                 64   0      0   0   0 A    OPEN   
+
+Math     3D        ELEM DIFF EQUATIONS
+      ~ Enrollment in Math 3D is restricted to majors in the Schools of
+      ~    Physical Sciences and of Engineering until 12:00pm on December 18th.
+    CCode Typ Sec Unt  Instructor       Time                 Place     Final                      Max Enr     WL Req Nor Rstr Status 
+    44620 LEC A   4    STAFF            MWF     10:00-10:50  HH 178    Mon, Mar 14, 10:30-12:30pm 130   0      0   0   0 A&N  OPEN   
+    44621 DIS 10  0    STAFF            TuTh    10:00-10:50  ICF 103                               65   0      0   0   0 A    OPEN   
+    44622 DIS 11  0    STAFF            TuTh     1:00- 1:50p ICF 103                               65   0      0   0   0 A    OPEN   
+    44640 LEC B   4    STAFF            MWF      3:00- 3:50p RH 104    Mon, Mar 14, 4:00-6:00pm   129   0      0   0   0 A&N  OPEN   
+    44641 DIS 20  0    STAFF            TuTh    10:00-10:50  MSTB 122                              54   0      0   0   0 A    OPEN   
+    44642 DIS 21  0    STAFF            TuTh     3:00- 3:50p ICF 103                               75   0      0   0   0 A    OPEN   
+    44650 LEC C   4    STAFF            MWF      4:00- 4:50p HH 178    Wed, Mar 16, 4:00-6:00pm   129   0      0   0   0 A&N  OPEN   
+    44651 DIS 30  0    STAFF            *TBA*                *TBA*                                 64   0      0   0   0 A    OPEN   
+    44652 DIS 31  0    STAFF            TuTh     5:00- 5:50p SE2 1304                              65   0      0   0   0 A    OPEN   
+    44660 LEC D   4    STAFF            MWF     10:00-10:50  MSTB 122  Mon, Mar 14, 10:30-12:30pm  54   0      0   0   0 A&N  OPEN   
+    44661 DIS 40  0    STAFF            TuTh     4:00- 4:50p MSTB 122                              54   0      0   0   0 A    OPEN   
+
+Math     4         MATH FOR ECONOMISTS
+      ~ Enrollment in Math 4 is restricted to Economics, Business Economics,
+      ~    and Quantitative Economics majors until 12:00pm on December 18th.
+    CCode Typ Sec Unt  Instructor       Time                 Place     Final                      Max Enr     WL Req Nor Rstr Status 
+    44710 LEC A   4    STAFF            MWF     12:00-12:50p HH 178    Mon, Mar 14, 1:30-3:30pm   120   0      0   0   0 A&L  OPEN   
+    44715 DIS 10  0    STAFF            MW       3:00- 3:50p DBH 1500                              60   0      0   0   0 A    OPEN   
+    44720 DIS 11  0    STAFF            MW       4:00- 4:50p DBH 1500                              60   0      0   0   0 A    OPEN   
+    44730 LEC B   4    STAFF            MWF      2:00- 2:50p HH 178    Fri, Mar 18, 1:30-3:30pm   120   0      0   0   0 A&L  OPEN   
+    44731 DIS 20  0    STAFF            MW       5:00- 5:50p ICF 103                               60   0      0   0   0 A    OPEN   
+    44732 DIS 21  0    STAFF            MW       4:00- 4:50p ET 202                                60   0      0   0   0 A    OPEN   
+
+Math     5A        CALCULUS LIFE SCIEN
+      ~ Enrollment in Math 5A is restricted to Biological Sciences majors until
+      ~    12:00pm on December 18th.
+    CCode Typ Sec Unt  Instructor       Time                 Place     Final                      Max Enr     WL Req Nor Rstr Status 
+    44800 LEC B   4    STAFF            MWF      2:00- 2:50p DBH 1500  Fri, Mar 18, 1:30-3:30pm    60   0      0   0   0 A&L  OPEN   
+    44805 DIS 10  0    STAFF            MW       5:00- 5:50p MSTB 124                              30   0      0   0   0      OPEN   
+    44810 DIS 20  0    STAFF            MW       4:00- 4:50p DBH 1422                              30   0      0   0   0      OPEN   
+
+Math     5B        CALCULUS LIFE SCIEN
+      ~ Enrollment in Math 5B is restricted to Biological Sciences majors until
+      ~    12:00pm on December 18th.
+    CCode Typ Sec Unt  Instructor       Time                 Place     Final                      Max Enr     WL Req Nor Rstr Status 
+    44815 LEC B   4    STAFF            MWF      2:00- 2:50p ET 202    Fri, Mar 18, 1:30-3:30pm    60   0      0   0   0 A&L  OPEN   
+    44820 DIS 10  0    STAFF            TuTh    12:00-12:50p DBH 1429                              30   0      0   0   0      OPEN   
+    44825 DIS 20  0    STAFF            TuTh     3:00- 3:50p MSTB 114                              30   0      0   0   0      OPEN   
+
+Math     9         INTRO PROG NUM ANLY
+      ~ Enrollment in Math 9 is restricted to Math majors until 12:00pm on
+      ~    December 18th.
+    CCode Typ Sec Unt  Instructor       Time                 Place     Final                      Max Enr     WL Req Nor Rstr Status 
+    44850 LEC A   4    STAFF            MWF     10:00-10:50  HICF 100M Mon, Mar 14, 10:30-12:30pm  43   0      0   0   0 A&L  OPEN   
+    44855 LAB 10  0    STAFF            TuTh    10:00-10:50  MSTB 226                              43   0      0   0   0      OPEN   
+    44860 LEC B   4    STAFF            *TBA*                *TBA*     TBA                         43   0      0   0   0 A&L  OPEN   
+    44865 LAB 20  0    STAFF            *TBA*                *TBA*                                 43   0      0   0   0      OPEN   
+
+Math     13        INTRO ABSTRACT MATH
+      ~ Enrollment in Math 13 is restricted to Math majors until 12:00pm on
+      ~    December 18th.
+    CCode Typ Sec Unt  Instructor       Time                 Place     Final                      Max Enr     WL Req Nor Rstr Status 
+    44940 LEC A   4    STAFF            MWF      9:00- 9:50  MSTB 122  Wed, Mar 16, 8:00-10:00am   45   0      0   0   0 A&L  OPEN   
+    44945 DIS 10  0    STAFF            TuTh     9:00- 9:50  HICF 100M                             45   0      0   0   0 A    OPEN   
+    44950 LEC B   4    STAFF            MWF      3:00- 3:50p ET 202    Mon, Mar 14, 4:00-6:00pm    60   0      0   0   0 A&L  OPEN   
+    44952 DIS 20  0    STAFF            TuTh     5:00- 5:50p SST 220B                              60   0      0   0   0 A    OPEN   
+
+Math     105B      NUMERICAL ANALYSIS
+    CCode Typ Sec Unt  Instructor       Time                 Place     Final                      Max Enr     WL Req Nor Rstr Status 
+    45000 LEC A   4    STAFF            MWF     12:00-12:50p RH 114    Mon, Mar 14, 1:30-3:30pm    42   0    n/a   0   0 A    OPEN   
+      ~ Must enroll in both Math 105B discussion and Math 105LB Lab.
+    45001 DIS 10  0    STAFF            TuTh    12:00-12:50p HICF 100L                             42   0    n/a   0   0 A    OPEN   
+
+Math     105LB     NUMERICAL ANLYS LAB
+    CCode Typ Sec Unt  Instructor       Time                 Place     Final                      Max Enr     WL Req Nor Rstr Status 
+    45005 LAB 10  1    STAFF            TuTh     1:00- 1:50p MSTB 210  Fri, Mar 18, 4:00-6:00pm    42   0    n/a   0   0 A    OPEN   
+
+Math     105B      NUMERICAL ANALYSIS
+    CCode Typ Sec Unt  Instructor       Time                 Place     Final                      Max Enr     WL Req Nor Rstr Status 
+    45006 LEC B   4    STAFF            *TBA*                *TBA*     TBA                          0   0    n/a   0   0 A    FULL   
+      ~ Must enroll in both Math 105B discussion and Math 105LB Lab.
+    45007 DIS 20  0    STAFF            *TBA*                *TBA*                                  0   0    n/a   0   0 A    FULL   
+                       STAFF                                                                                                         
+
+Math     105LB     NUMERICAL ANLYS LAB
+    CCode Typ Sec Unt  Instructor       Time                 Place     Final                      Max Enr     WL Req Nor Rstr Status 
+    45008 LAB 20  1    STAFF            *TBA*                *TBA*     TBA                          0   0    n/a   0   0 A    FULL   
+
+Math     112B      INT PARTIAL DIF EQU
+    CCode Typ Sec Unt  Instructor       Time                 Place     Final                      Max Enr     WL Req Nor Rstr Status 
+    45010 LEC A   4    STAFF            MWF      3:00- 3:50p MSTB 122  Mon, Mar 14, 4:00-6:00pm    49   0      0   0   0 A    OPEN   
+    45011 DIS 10  0    STAFF            TuTh     3:00- 3:50p MSTB 122                              49   0      0   0   0 A    OPEN   
+    45012 LEC B   4    STAFF            *TBA*                *TBA*     TBA                          0   0    n/a   0   0 A    FULL   
+    45013 DIS 20  0    STAFF            *TBA*                *TBA*                                  0   0    n/a   0   0 A    FULL   
+
+Math     113B      MATH MODELNG IN BIO
+    CCode Typ Sec Unt  Instructor       Time                 Place     Final                      Max Enr     WL Req Nor Rstr Status 
+    45015 LEC A   4    STAFF            MWF      1:00- 1:50p MSTB 114  Wed, Mar 16, 1:30-3:30pm    30   0      0   0   0      OPEN   
+    45016 DIS 10  0    STAFF            TuTh    10:00-10:50  RH 114                                30   0      0   0   0 A    OPEN   
+
+Math     117       DYNAMICAL SYSTEMS
+    CCode Typ Sec Unt  Instructor       Time                 Place     Final                      Max Enr     WL Req Nor Rstr Status 
+    45020 LEC A   4    STAFF            MWF     11:00-11:50  PSCB 240  Fri, Mar 18, 8:00-10:00am   29   0      0   0   0 A    OPEN   
+    45021 DIS 10  0    STAFF            TuTh    11:00-11:50  MSTB 114                              29   0      0   0   0 A    OPEN   
+
+Math     120A      INTRO GROUP THEORY
+      ~ Enrollment in Math 120A is restricted to Math majors until 12:00pm on
+      ~    December 18th.
+    CCode Typ Sec Unt  Instructor       Time                 Place     Final                      Max Enr     WL Req Nor Rstr Status 
+    45030 LEC A   4    STAFF            MWF      2:00- 2:50p MSTB 118  Fri, Mar 18, 1:30-3:30pm    58   0      0   0   0 A&L  OPEN   
+    45031 DIS 10  0    STAFF            MW       3:00- 3:50p SH 174                                58   0      0   0   0 A    OPEN   
+    45035 LEC B   4    STAFF            *TBA*                *TBA*     TBA                          0   0    n/a   0   0 A&L  FULL   
+    45036 DIS 20  0    STAFF            *TBA*                *TBA*                                  0   0    n/a   0   0 A    FULL   
+
+Math     120B      INTRO RINGS/FIELDS
+    CCode Typ Sec Unt  Instructor       Time                 Place     Final                      Max Enr     WL Req Nor Rstr Status 
+    45040 LEC A   4    STAFF            MWF     11:00-11:50  RH 114    Fri, Mar 18, 8:00-10:00am   47   0      0   0   0 A    OPEN   
+    45041 DIS 10  0    STAFF            *TBA*                *TBA*                                 47   0      0   0   0 A    OPEN   
+    45042 LEC B   4    STAFF            MWF      3:00- 3:50p MSTB 124  Mon, Mar 14, 4:00-6:00pm    47   0      0   0   0 A    OPEN   
+    45043 DIS 11  0    STAFF            MW       4:00- 4:50p MSTB 124                              47   0      0   0   0 A    OPEN   
+
+Math     H120B     HON GRAD ALGBR II
+    CCode Typ Sec Unt  Instructor       Time                 Place     Final                      Max Enr     WL Req Nor Rstr Status 
+    45045 LEC A   5    ISIK, M.         MTuWThF  2:00- 2:50p RH 306    TBA                         10   0      0   0   0 A    OPEN   
+
+Math     121A      LINEAR ALGEBRA
+      ~ Enrollment in Math 121A is restricted to Math majors until 12:00pm on
+      ~    December 18th.
+    CCode Typ Sec Unt  Instructor       Time                 Place     Final                      Max Enr     WL Req Nor Rstr Status 
+    45050 LEC A   4    STAFF            MWF      1:00- 1:50p SH 128    Wed, Mar 16, 1:30-3:30pm    52   0      0   0   0 A&L  OPEN   
+    45051 DIS 10  0    STAFF            TuTh     8:00- 8:50  DBH 1200                              52   0      0   0   0 A    OPEN   
+
+Math     121B      LINEAR ALGEBRA
+    CCode Typ Sec Unt  Instructor       Time                 Place     Final                      Max Enr     WL Req Nor Rstr Status 
+    45070 LEC A   4    STAFF            MWF      1:00- 1:50p MSTB 122  Wed, Mar 16, 1:30-3:30pm    45   0      0   0   0 A    OPEN   
+    45071 DIS 10  0    STAFF            TuTh    11:00-11:50  ICF 103                               45   0      0   0   0 A    OPEN   
+
+Math     130A      PROB&STOCH PROCESS
+    CCode Typ Sec Unt  Instructor       Time                 Place     Final                      Max Enr     WL Req Nor Rstr Status 
+    45075 LEC A   4    STAFF            MWF     10:00-10:50  MSTB 124  Mon, Mar 14, 10:30-12:30pm  50   0      0   0   0 A    OPEN   
+    45076 DIS 10  0    STAFF            TuTh    10:00-10:50  MSTB 124                              50   0      0   0   0 A    OPEN   
+
+Math     130B      PROB&STOCH PROCESS
+    CCode Typ Sec Unt  Instructor       Time                 Place     Final                      Max Enr     WL Req Nor Rstr Status 
+    45080 LEC A   4    STAFF            MWF      1:00- 1:50p MSTB 124  Wed, Mar 16, 1:30-3:30pm    49   0      0   0   0 A    OPEN   
+    45081 DIS 10  0    STAFF            TuTh     8:00- 8:50  ICS 180                               49   0      0   0   0 A    OPEN   
+    45084 LEC B   4    STAFF            MWF      4:00- 4:50p ICF 103   Wed, Mar 16, 4:00-6:00pm    59   0      0   0   0 A    OPEN   
+    45085 DIS 20  0    STAFF            TuTh     6:00- 6:50p ET 202                                59   0      0   0   0 A    OPEN   
+
+Math     133A      STAT MTHD FINANCE I
+    CCode Typ Sec Unt  Instructor       Time                 Place     Final                      Max Enr     WL Req Nor Rstr Status 
+    45100 LEC A   4    STAFF            MWF      9:00- 9:50  RH 114    Wed, Mar 16, 8:00-10:00am   47   0      0   0   0 A    OPEN   
+    45101 DIS 10  0    STAFF            TuTh     9:00- 9:50  RH 114                                47   0      0   0   0 A    OPEN   
+
+Math     140A      ELEMENTARY ANALYSIS
+      ~ Enrollment in Math 140A is restricted to Math majors until 12:00pm on
+      ~    December 18th.
+    CCode Typ Sec Unt  Instructor       Time                 Place     Final                      Max Enr     WL Req Nor Rstr Status 
+    45110 LEC A   4    STAFF            MWF      9:00- 9:50  MSTB 124  Wed, Mar 16, 8:00-10:00am   55   0      0   0   0 A&L  OPEN   
+    45111 DIS 10  0    STAFF            TuTh     9:00- 9:50  MSTB 124                              55   0      0   0   0 A    OPEN   
+
+Math     140B      ELEMENTARY ANALYSIS
+    CCode Typ Sec Unt  Instructor       Time                 Place     Final                      Max Enr     WL Req Nor Rstr Status 
+    45120 LEC A   4    STAFF            MWF     12:00-12:50p ICF 103   Mon, Mar 14, 1:30-3:30pm    42   0      0   0   0 A    OPEN   
+    45125 DIS 10  0    STAFF            TuTh     8:00- 8:50  HH 156                                42   0      0   0   0 A    OPEN   
+    45130 LEC B   4    STAFF            MWF      8:00- 8:50  ICF 103   Mon, Mar 14, 8:00-10:00am   47   0      0   0   0 A    OPEN   
+    45131 DIS 20  0    STAFF            TuTh     8:00- 8:50  RH 114                                47   0      0   0   0 A    OPEN   
+
+Math     H140B     HON GRAD ANLYS II
+    CCode Typ Sec Unt  Instructor       Time                 Place     Final                      Max Enr     WL Req Nor Rstr Status 
+    45140 LEC A   5    GORODETSKI, A.   MTuWThF 10:00-10:50  RH 306    TBA                         10   0      0   0   0 A    OPEN   
+
+Math     147       COMPLEX ANALYSIS
+    CCode Typ Sec Unt  Instructor       Time                 Place     Final                      Max Enr     WL Req Nor Rstr Status 
+    45150 LEC A   4    STAFF            MWF      1:00- 1:50p RH 114    Wed, Mar 16, 1:30-3:30pm    30   0      0   0   0 A    OPEN   
+    45151 DIS 10  0    STAFF            TuTh    11:00-11:50  HICF 100M                             30   0      0   0   0 A    OPEN   
+
+Math     161       MODERN GEOMETRY
+    CCode Typ Sec Unt  Instructor       Time                 Place     Final                      Max Enr     WL Req Nor Rstr Status 
+    45170 LEC A   4    STAFF            MWF      3:00- 3:50p RH 190    Mon, Mar 14, 4:00-6:00pm    30   0      0   0   0 A    OPEN   
+    45171 DIS 10  0    STAFF            TuTh     3:00- 3:50p ICS 225                               30   0      0   0   0 A    OPEN   
+
+Math     162A      INTRO DIFFRNTL GEOM
+    CCode Typ Sec Unt  Instructor       Time                 Place     Final                      Max Enr     WL Req Nor Rstr Status 
+    45190 LEC A   4    STAFF            MWF     12:00-12:50p MSTB 122  Mon, Mar 14, 1:30-3:30pm    22   0      0   0   0 A    OPEN   
+    45191 DIS 10  0    STAFF            TuTh    12:00-12:50p MSTB 114                              22   0      0   0   0 A    OPEN   
+
+Math     173B      INTRO CRYPTOLOGY
+    CCode Typ Sec Unt  Instructor       Time                 Place     Final                      Max Enr     WL Req Nor Rstr Status 
+    45200 LEC A   4    STAFF            MWF     10:00-10:50  *TBA*     Mon, Mar 14, 10:30-12:30pm  45   0      0   0   0 A    OPEN   
+    45201 DIS 10  0    STAFF            TuTh    10:00-10:50  *TBA*                                 45   0      0   0   0 A    OPEN   
+
+Math     175       COMBINATORICS
+    CCode Typ Sec Unt  Instructor       Time                 Place     Final                      Max Enr     WL Req Nor Rstr Status 
+    45210 LEC A   4    STAFF            MWF      2:00- 2:50p *TBA*     Fri, Mar 18, 1:30-3:30pm    30   0      0   0   0 A    OPEN   
+    45215 DIS 10  0    STAFF            TuTh     2:00- 2:50p *TBA*                                 30   0      0   0   0 A    OPEN   
+                       STAFF                                                                                                         
+
+Math     176       MATH OF FINANCE
+    CCode Typ Sec Unt  Instructor       Time                 Place     Final                      Max Enr     WL Req Nor Rstr Status 
+    45250 LEC A   4    SAARI, D.        TuTh     8:00- 9:20  DBH 1600  Tue, Mar 15, 8:00-10:00am  124 0/0      0   0   0 A    OPEN   
+      ~ Same as 62210 (Econ 135, Lec A).
+    45251 DIS 10  0    STAFF            M        9:00- 9:50  SSTR 100                              31 0/0      0   0   0 A    OPEN   
+                       SAARI, D.                                                                                                     
+      ~ Same as 62211 (Econ 135, Dis A1).
+    45252 DIS 11  0    STAFF            W       11:00-11:50  HH 156                                31 0/0      0   0   0 A    OPEN   
+                       SAARI, D.                                                                                                     
+      ~ Same as 62212 (Econ 135, Dis A2).
+    45253 DIS 12  0    STAFF            F        1:00- 1:50p SSTR 101                              31 0/0      0   0   0 A    OPEN   
+                       SAARI, D.                                                                                                     
+      ~ Same as 62213 (Econ 135, Dis A3).
+    45254 DIS 13  0    STAFF            F        3:00- 3:50p SSTR 101                              31 0/0      0   0   0 A    OPEN   
+                       SAARI, D.                                                                                                     
+      ~ Same as 62214 (Econ 135, Dis A4).
+
+Math     180A      NUMBER THEORY I
+    CCode Typ Sec Unt  Instructor       Time                 Place     Final                      Max Enr     WL Req Nor Rstr Status 
+    45260 LEC A   4    STAFF            MWF      2:00- 2:50p MSTB 124  Fri, Mar 18, 1:30-3:30pm    47   0      0   0   0 A    OPEN   
+    45261 DIS 10  0    STAFF            TuTh     2:00- 2:50p RH 114                                47   0      0   0   0 A    OPEN   
+
+Math     192       LRNG &TCHG SEC MATH
+    CCode Typ Sec Unt  Instructor       Time                 Place     Final                      Max Enr     WL Req Nor Rstr Status 
+    45280 LEC A   2    PANTANO, A.      W        2:00- 3:50p NS2 1201  TBA                         15   0    n/a   0   0 D    OPEN   
+
+Math     199B      SUP-READING-RSCH
+      ~ Contact the faculty member to obtain permission before enrolling in
+      ~    their Math 199 section.
+    CCode Typ Sec Unt  Instructor       Time                 Place     Final                      Max Enr     WL Req Nor Rstr Status 
+    45300 RES A   4    ALLARD, J.       *TBA*                *TBA*     TBA                          2   0      0   0   0      OPEN   
+    45301 RES B   4    BARANOVSKY, V.   *TBA*                *TBA*     TBA                          2   0      0   0   0      OPEN   
+    45302 RES C   4    CHEN, L.         *TBA*                *TBA*     TBA                          2   0      0   0   0      OPEN   
+    45304 RES D   4    CRANSTON, M.     *TBA*                *TBA*     TBA                          2   0      0   0   0      OPEN   
+    45305 RES E   4    DAVIS, C.        *TBA*                *TBA*     TBA                         20   0      0   0   0      OPEN   
+    45306 RES F   4    ENCISO RUIZ, G.  *TBA*                *TBA*     TBA                          2   0      0   0   0      OPEN   
+    45310 RES G   4    FIGOTIN, A.      *TBA*                *TBA*     TBA                          2   0      0   0   0      OPEN   
+    45312 RES H   4    FOREMAN, M.      *TBA*                *TBA*     TBA                          0   0    n/a   0   0      FULL   
+    45314 RES I   4    GORODETSKI, A.   *TBA*                *TBA*     TBA                          2   0      0   0   0      OPEN   
+    45316 RES J   4    GUIDOTTI, P.     *TBA*                *TBA*     TBA                          2   0      0   0   0      OPEN   
+    45318 RES J   4    JITOMIRSKAYA, S. *TBA*                *TBA*     TBA                          2   0      0   0   0      OPEN   
+    45319 RES L   4    HEZARI, H.       *TBA*                *TBA*     TBA                          2   0      0   0   0      OPEN   
+    45320 RES M   4    KLEIN, A.        *TBA*                *TBA*     TBA                          2   0      0   0   0      OPEN   
+    45322 RES N   4    KOMAROVA, N.     *TBA*                *TBA*     TBA                          2   0      0   0   0      OPEN   
+    45326 RES O   4    LI, S.           *TBA*                *TBA*     TBA                          2   0      0   0   0      OPEN   
+    45328 RES P   4    LOWENGRUB, J.    *TBA*                *TBA*     TBA                          2   0      0   0   0      OPEN   
+    45330 RES Q   4    LU, Z.           *TBA*                *TBA*     TBA                          2   0      0   0   0      OPEN   
+    45336 RES S   4    NIE, Q.          *TBA*                *TBA*     TBA                          2   0      0   0   0      OPEN   
+    45342 RES T   4    PANTANO, A.      *TBA*                *TBA*     TBA                          9   0      0   0   0      OPEN   
+    45350 RES V   4    RUBIN, K.        *TBA*                *TBA*     TBA                          2   0      0   0   0      OPEN   
+    45352 RES W   4    SCHECHTER, M.    *TBA*                *TBA*     TBA                          2   0      0   0   0      OPEN   
+    45354 RES X   4    SILVERBERG, A.   *TBA*                *TBA*     TBA                          2   0      0   0   0      OPEN   
+    45356 RES Y   4    SOLNA, K.        *TBA*                *TBA*     TBA                          2   0      0   0   0      OPEN   
+    45358 RES Z   4    TERNG, C.        *TBA*                *TBA*     TBA                          2   0      0   0   0      OPEN   
+    45360 RES AA  4    TITI, E.         *TBA*                *TBA*     TBA                          2   0      0   0   0      OPEN   
+    45364 RES CC  4    WAN, D.          *TBA*                *TBA*     TBA                          2   0      0   0   0      OPEN   
+    45366 RES DD  4    WAN, F.          *TBA*                *TBA*     TBA                          2   0      0   0   0      OPEN   
+    45367 RES EE  4    XIAO, L.         *TBA*                *TBA*     TBA                          2   0      0   0   0      OPEN   
+    45368 RES FF  4    XIN, J.          *TBA*                *TBA*     TBA                          2   0      0   0   0      OPEN   
+    45371 RES GG  4    YU, Y.           *TBA*                *TBA*     TBA                          2   0      0   0   0      OPEN   
+    45372 RES HH  4    ZEMAN, M.        *TBA*                *TBA*     TBA                          3   0      0   0   0      OPEN   
+    45374 RES II  4    ZHAO, H.         *TBA*                *TBA*     TBA                          2   0      0   0   0      OPEN   
+    45375 RES JJ  4    KIM, C.          *TBA*                *TBA*     TBA                          2   0      0   0   0      OPEN   
+    45376 RES KK  4    STREETS, J.      *TBA*                *TBA*     TBA                          2   0      0   0   0      OPEN   
+    45378 RES LL  4    TSENG, L.        *TBA*                *TBA*     TBA                          2   0      0   0   0      OPEN   
+    45380 RES MM  4    KRUPCHYK, K.     *TBA*                *TBA*     TBA                          2   0      0   0   0      OPEN   
+    45382 RES NN  4    SCHOEN, R.       *TBA*                *TBA*     TBA                          2   0      0   0   0      OPEN   
+
+Math     205B      INTRO GRAD ANALYSIS
+    CCode Typ Sec Unt  Instructor       Time                 Place     Final                      Max Enr     WL Req Nor Rstr Status 
+    45500 LEC A   5    STAFF            MTuWThF 10:00-10:50  RH 306    TBA                         20   0      0   0   0 A&K  OPEN   
+
+Math     206B      INTRO GRAD ALGEBRA
+    CCode Typ Sec Unt  Instructor       Time                 Place     Final                      Max Enr     WL Req Nor Rstr Status 
+    45510 LEC A   5    STAFF            MTuWThF  2:00- 2:50p RH 306    Thu, Mar 17, 1:30-3:30pm    20   0      0   0   0 A&K  OPEN   
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Math course numbers 210 - 298:
+  ~ Undergraduates must obtain prior approval from the
+  ~     Department's Undergraduate Advisor to enroll in a
+  ~     graduate course above MATH 206.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Math     210B      REAL ANALYSIS
+    CCode Typ Sec Unt  Instructor       Time                 Place     Final                      Max Enr     WL Req Nor Rstr Status 
+    45520 LEC A   4    STAFF            MWF     10:00-10:50  DBH 1425  Mon, Mar 14, 10:30-12:30pm  27   0      0   0   0 A&K  OPEN   
+
+Math     218B      INTRO/MANIFOLD&GEOM
+    CCode Typ Sec Unt  Instructor       Time                 Place     Final                      Max Enr     WL Req Nor Rstr Status 
+    45530 LEC A   4    STAFF            MWF      8:30- 9:50  RH 306    Mon, Mar 14, 8:00-10:00am   15   0      0   0   0 A&K  OPEN   
+
+Math     220B      ANALYTIC FNCTN THRY
+    CCode Typ Sec Unt  Instructor       Time                 Place     Final                      Max Enr     WL Req Nor Rstr Status 
+    45540 LEC A   4    STAFF            MWF      9:00- 9:50  MSTB 114  Wed, Mar 16, 8:00-10:00am   27   0      0   0   0 A&K  OPEN   
+
+Math     226B      COMPUTATIONAL PDES
+    CCode Typ Sec Unt  Instructor       Time                 Place     Final                      Max Enr     WL Req Nor Rstr Status 
+    45560 LEC B   4    STAFF            MWF     10:00-10:50  RH 440R   Mon, Mar 14, 10:30-12:30pm  30   0      0   0   0 A&K  OPEN   
+
+Math     227B      MATH-COMP BIOLOGY
+    CCode Typ Sec Unt  Instructor       Time                 Place     Final                      Max Enr     WL Req Nor Rstr Status 
+    45570 LEC A   4    STAFF            MWF     11:00-11:50  RH 340N   Fri, Mar 18, 8:00-10:00am   20   0      0   0   0 A&K  OPEN   
+
+Math     230B      ALGEBRA
+    CCode Typ Sec Unt  Instructor       Time                 Place     Final                      Max Enr     WL Req Nor Rstr Status 
+    45580 LEC A   4    STAFF            MWF     11:00-11:50  RH 306    Fri, Mar 18, 8:00-10:00am   29   0      0   0   0 A&K  OPEN   
+
+Math     232B      ALG NUMBER THEORY
+    CCode Typ Sec Unt  Instructor       Time                 Place     Final                      Max Enr     WL Req Nor Rstr Status 
+    45590 LEC B   4    STAFF            MWF     12:00-12:50p RH 440R   Mon, Mar 14, 1:30-3:30pm    20   0      0   0   0 A&K  OPEN   
+
+Math     245B      TOPICS IN DIFF GEOM
+    CCode Typ Sec Unt  Instructor       Time                 Place     Final                      Max Enr     WL Req Nor Rstr Status 
+    45615 LEC B   4    STAFF            MWF     12:00-12:50p RH 340N   Mon, Mar 14, 1:30-3:30pm    20   0      0   0   0 A&K  OPEN   
+
+Math     260B      FUNCTIONAL ANALYSIS
+    CCode Typ Sec Unt  Instructor       Time                 Place     Final                      Max Enr     WL Req Nor Rstr Status 
+    45670 LEC A   4    STAFF            MWF     10:00-10:50  MSTB 114  Mon, Mar 14, 10:30-12:30pm  15   0      0   0   0 A&K  OPEN   
+
+Math     270B      PROBABILITY
+    CCode Typ Sec Unt  Instructor       Time                 Place     Final                      Max Enr     WL Req Nor Rstr Status 
+    45680 LEC A   4    STAFF            MWF      9:00- 9:50  RH 340N   Wed, Mar 16, 8:00-10:00am   15   0      0   0   0 A&K  OPEN   
+
+Math     271B      STOCHASTIC PROCESS
+    CCode Typ Sec Unt  Instructor       Time                 Place     Final                      Max Enr     WL Req Nor Rstr Status 
+    45690 LEC A   4    STAFF            MWF     11:00-11:50  *TBA*     Fri, Mar 18, 8:00-10:00am   15   0      0   0   0 A&K  OPEN   
+
+Math     280B      MATH LOGIC
+    CCode Typ Sec Unt  Instructor       Time                 Place     Final                      Max Enr     WL Req Nor Rstr Status 
+    45715 LEC B   4    STAFF            MWF      1:00- 1:50p RH 440R   Wed, Mar 16, 1:30-3:30pm    20   0      0   0   0 A&K  OPEN   
+
+Math     290B      METH IN APPLD MATH
+    CCode Typ Sec Unt  Instructor       Time                 Place     Final                      Max Enr     WL Req Nor Rstr Status 
+    45760 LEC A   4    STAFF            MWF      3:00- 3:50p RH 340P   Mon, Mar 14, 4:00-6:00pm    15   0      0   0   0 A&K  OPEN   
+
+Math     295B      PARTIAL DIFF EQNS
+    CCode Typ Sec Unt  Instructor       Time                 Place     Final                      Max Enr     WL Req Nor Rstr Status 
+    45770 LEC A   4    STAFF            MWF      2:00- 2:50p PSCB 230  Fri, Mar 18, 1:30-3:30pm    15   0      0   0   0 A&K  OPEN   
+
+Math     296       HARMONIC ANALYSIS
+    CCode Typ Sec Unt  Instructor       Time                 Place     Final                      Max Enr     WL Req Nor Rstr Status 
+    45780 LEC A   4    STAFF            M        3:00- 3:50p NS2 1201  Mon, Mar 14, 4:00-6:00pm    15   0      0   0   0 A&K  OPEN   
+                                        Tu       2:00- 3:50p NS2 1201                                                                
+
+Math     298B      APPLIED MATHEMATICS
+    CCode Typ Sec Unt  Instructor       Time                 Place     Final                      Max Enr     WL Req Nor Rstr Status 
+    45800 SEM A   2    ALLARD, J.       M        4:00- 4:50p RH 306    Wed, Mar 16, 4:00-6:00pm    25   0      0   0   0 L&S  OPEN   
+
+Math     298B      LOGIC
+    CCode Typ Sec Unt  Instructor       Time                 Place     Final                      Max Enr     WL Req Nor Rstr Status 
+    45805 SEM B   2    ZEMAN, M.        M        4:00- 5:50p RH 440R   Wed, Mar 16, 4:00-6:00pm    15   0      0   0   0 L&S  OPEN   
+
+Math     298B      DIFFERENTIAL GEOM
+    CCode Typ Sec Unt  Instructor       Time                 Place     Final                      Max Enr     WL Req Nor Rstr Status 
+    45810 SEM C   2    LU, Z.           Tu       4:00- 4:50p RH 306    TBA                         15   0      0   0   0 L&S  OPEN   
+
+Math     298B      DYNMICL SYSTM&ERGDC
+    CCode Typ Sec Unt  Instructor       Time                 Place     Final                      Max Enr     WL Req Nor Rstr Status 
+    45815 SEM D   2    GORODETSKI, A.   Tu       1:00- 2:50p RH 440R   Fri, Mar 18, 4:00-6:00pm    15   0      0   0   0 L&S  OPEN   
+
+Math     298B      ANALYSIS
+    CCode Typ Sec Unt  Instructor       Time                 Place     Final                      Max Enr     WL Req Nor Rstr Status 
+    45820 SEM E   2    LI, S.           Tu       3:00- 3:50p RH 306    Tue, Mar 15, 4:00-6:00pm    15   0      0   0   0 L&S  OPEN   
+                       YU, Y.                                                                                                        
+                       GUIDOTTI, P.                                                                                                  
+
+Math     298B      MATH PHYSICS
+    CCode Typ Sec Unt  Instructor       Time                 Place     Final                      Max Enr     WL Req Nor Rstr Status 
+    45825 SEM F   2    JITOMIRSKAYA, S. Th       2:00- 2:50p RH 340P   TBA                         15   0      0   0   0 L&S  OPEN   
+                       KLEIN, A.                                                                                                     
+
+Math     298B      ALGEBRA
+    CCode Typ Sec Unt  Instructor       Time                 Place     Final                      Max Enr     WL Req Nor Rstr Status 
+    45830 SEM G   2    BARANOVSKY, V.   W        1:00- 1:50p RH 340P   TBA                         15   0      0   0   0 L&S  OPEN   
+                       SILVERBERG, A.                                                                                                
+                       RUBIN, K.                                                                                                     
+
+Math     298B      PROBABILITIES
+    CCode Typ Sec Unt  Instructor       Time                 Place     Final                      Max Enr     WL Req Nor Rstr Status 
+    45835 SEM H   2    CRANSTON, M.     Tu      11:00-11:50  RH 306    Tue, Mar 15, 10:30-12:30pm  15   0      0   0   0 L&S  OPEN   
+
+Math     298B      GRADUATE SEMINAR
+    CCode Typ Sec Unt  Instructor       Time                 Place     Final                      Max Enr     WL Req Nor Rstr Status 
+    45840 SEM I   2    GUIDOTTI, P.     F        4:00- 4:50p MSTB 120  TBA                         75   0      0   0   0 L&S  OPEN   
+
+Math     298B      NUMBER THEORY
+    CCode Typ Sec Unt  Instructor       Time                 Place     Final                      Max Enr     WL Req Nor Rstr Status 
+    45845 SEM J   2    RUBIN, K.        Tu       2:00- 2:50p RH 340P   Thu, Mar 17, 1:30-3:30pm    15   0      0   0   0 L&S  OPEN   
+                       SILVERBERG, A.                                                                                                
+                       WAN, D.                                                                                                       
+
+Math     298B      NON-LNR DIF EQUATNS
+    CCode Typ Sec Unt  Instructor       Time                 Place     Final                      Max Enr     WL Req Nor Rstr Status 
+    45850 SEM K   2    YU, Y.           Th       3:00- 3:50p RH 440R   TBA                         15   0      0   0   0 L&S  OPEN   
+                       GUIDOTTI, P.                                                                                                  
+                       LI, S.                                                                                                        
+
+Math     298B      LEARNING SEM GEOM
+    CCode Typ Sec Unt  Instructor       Time                 Place     Final                      Max Enr     WL Req Nor Rstr Status 
+    45855 SEM L   2    LU, Z.           Tu      10:00-11:50  RH 340P   TBA                         15   0      0   0   0 L&S  OPEN   
+                       TSENG, L.                                                                                                     
+                       STREETS, J.                                                                                                   
+
+Math     298B      CRYPTOGRAPHY
+    CCode Typ Sec Unt  Instructor       Time                 Place     Final                      Max Enr     WL Req Nor Rstr Status 
+    45860 SEM M   2    SILVERBERG, A.   M        3:00- 3:50p RH 306    Mon, Mar 14, 4:00-6:00pm    15   0      0   0   0 L&S  OPEN   
+
+Math     298B      ERGDC SCHRDNGR OPRT
+    CCode Typ Sec Unt  Instructor       Time                 Place     Final                      Max Enr     WL Req Nor Rstr Status 
+    45870 SEM 0   2    KLEIN, A.        F        2:00- 2:50p RH 340P   TBA                         15   0      0   0   0 L&S  OPEN   
+                       JITOMIRSKAYA, S.                                                                                              
+
+Math     298B      LRNG SEM DIFF GEOM
+    CCode Typ Sec Unt  Instructor       Time                 Place     Final                      Max Enr     WL Req Nor Rstr Status 
+    45875 SEM P   2    TERNG, C.        Tu      10:00-11:50  *TBA*     TBA                         15   0      0   0   0 L&S  OPEN   
+    45880 SEM R   2    STREETS, J.      Th       2:00- 3:50p *TBA*     TBA                         15   0      0   0   0 L&S  OPEN   
+
+Math     298B      LRNG SEM NONLNR PDE
+    CCode Typ Sec Unt  Instructor       Time                 Place     Final                      Max Enr     WL Req Nor Rstr Status 
+    45885 SEM S   2    GUIDOTTI, P.     Th       1:30- 2:50p RH 440R   TBA                         15   0      0   0   0 L&S  OPEN   
+                       LI, S.                                                                                                        
+                       YU, Y.                                                                                                        
+
+Math     298B      LRNG SEM GEO ANALYS
+    CCode Typ Sec Unt  Instructor       Time                 Place     Final                      Max Enr     WL Req Nor Rstr Status 
+    45890 SEM T   2    STREETS, J.      Th      10:00-11:50  RH 440R   TBA                         15   0      0   0   0 L&S  OPEN   
+
+Math     298B      LRN SEM MATH FINANC
+    CCode Typ Sec Unt  Instructor       Time                 Place     Final                      Max Enr     WL Req Nor Rstr Status 
+    45895 SEM U   2    FOREMAN, M.      W        2:00- 3:50p RH 340N   TBA                         15   0      0   0   0 L&S  OPEN   
+
+Math     299B      SUP-READING-RSCH
+    CCode Typ Sec Unt  Instructor       Time                 Place     Final                      Max Enr     WL Req Nor Rstr Status 
+    45900 RES 1   2-12 ALLARD, J.       *TBA*                *TBA*     TBA                         15   0      0   0   0 K&L  OPEN   
+    45901 RES 1   2-12 BARANOVSKY, V.   *TBA*                *TBA*     TBA                         15   0      0   0   0 K&L  OPEN   
+    45902 RES 2   2-12 CHEN, L.         *TBA*                *TBA*     TBA                         15   0      0   0   0 K&L  OPEN   
+    45904 RES 3   2-12 CRANSTON, M.     *TBA*                *TBA*     TBA                         15   0      0   0   0 K&L  OPEN   
+    45906 RES 4   2-12 EICHHORN, S.     *TBA*                *TBA*     TBA                         15   0      0   0   0 K&L  OPEN   
+    45908 RES 5   2-12 ENCISO RUIZ, G.  *TBA*                *TBA*     TBA                         15   0      0   0   0 K&L  OPEN   
+    45912 RES 6   2-12 FIGOTIN, A.      *TBA*                *TBA*     TBA                         15   0      0   0   0 K&L  OPEN   
+    45914 RES 7   2-12 FOREMAN, M.      *TBA*                *TBA*     TBA                         15   0      0   0   0 K&L  OPEN   
+    45916 RES 8   2-12 GORODETSKI, A.   *TBA*                *TBA*     TBA                         15   0      0   0   0 K&L  OPEN   
+    45918 RES 9   2-12 GUIDOTTI, P.     *TBA*                *TBA*     TBA                         15   0      0   0   0 K&L  OPEN   
+    45919 RES 10  2-12 HEZARI, H.       *TBA*                *TBA*     TBA                         15   0      0   0   0 K&L  OPEN   
+    45920 RES 11  2-12 JITOMIRSKAYA, S. *TBA*                *TBA*     TBA                         15   0      0   0   0 K&L  OPEN   
+    45922 RES 12  2-12 KLEIN, A.        *TBA*                *TBA*     TBA                         15   0      0   0   0 K&L  OPEN   
+    45924 RES 13  2-12 KOMAROVA, N.     *TBA*                *TBA*     TBA                         15   0      0   0   0 K&L  OPEN   
+    45926 RES 14  2-12 LI, P.           *TBA*                *TBA*     TBA                         15   0      0   0   0 K&L  OPEN   
+    45928 RES 15  2-12 LI, S.           *TBA*                *TBA*     TBA                         15   0      0   0   0 K&L  OPEN   
+    45930 RES 16  2-12 LOWENGRUB, J.    *TBA*                *TBA*     TBA                         15   0      0   0   0 K&L  OPEN   
+    45932 RES 17  2-12 LU, Z.           *TBA*                *TBA*     TBA                         15   0      0   0   0 K&L  OPEN   
+    45938 RES 18  2-12 NIE, Q.          *TBA*                *TBA*     TBA                         15   0      0   0   0 K&L  OPEN   
+    45944 RES 19  2-12 REILLY, R.       *TBA*                *TBA*     TBA                         15   0      0   0   0 K&L  OPEN   
+    45946 RES 20  2-12 RUBIN, K.        *TBA*                *TBA*     TBA                         15   0      0   0   0 K&L  OPEN   
+    45952 RES 21  2-12 SCHECHTER, M.    *TBA*                *TBA*     TBA                         15   0      0   0   0 K&L  OPEN   
+    45954 RES 22  2-12 SILVERBERG, A.   *TBA*                *TBA*     TBA                         15   0      0   0   0 K&L  OPEN   
+    45956 RES 23  2-12 SOLNA, K.        *TBA*                *TBA*     TBA                         15   0      0   0   0 K&L  OPEN   
+    45960 RES 24  2-12 TERNG, C.        *TBA*                *TBA*     TBA                         15   0      0   0   0 K&L  OPEN   
+    45962 RES 25  2-12 TITI, E.         *TBA*                *TBA*     TBA                         15   0      0   0   0 K&L  OPEN   
+    45966 RES 26  2-12 WAN, D.          *TBA*                *TBA*     TBA                         15   0      0   0   0 K&L  OPEN   
+    45968 RES 27  2-12 WAN, F.          *TBA*                *TBA*     TBA                         15   0      0   0   0 K&L  OPEN   
+    45969 RES 28  2-12 XIAO, L.         *TBA*                *TBA*     TBA                         15   0      0   0   0 K&L  OPEN   
+    45970 RES 28  2-12 XIN, J.          *TBA*                *TBA*     TBA                         15   0      0   0   0 K&L  OPEN   
+    45972 RES 29  2-12 YU, Y.           *TBA*                *TBA*     TBA                         15   0      0   0   0 K&L  OPEN   
+    45974 RES 30  2-12 ZEMAN, M.        *TBA*                *TBA*     TBA                         15   0      0   0   0 K&L  OPEN   
+    45976 RES 31  2-12 ZHAO, H.         *TBA*                *TBA*     TBA                         15   0      0   0   0 K&L  OPEN   
+    45978 RES 32  2-12 STREETS, J.      *TBA*                *TBA*     TBA                         15   0      0   0   0 K&L  OPEN   
+    45980 RES 33  2-12 TSENG, L.        *TBA*                *TBA*     TBA                          0   0    n/a   0   0 K&L  FULL   
+    45982 RES 34  2-12 STAFF            *TBA*                *TBA*     TBA                          0   0    n/a   0   0 K&L  FULL   
+    45984 RES 35  2-12 STAFF            *TBA*                *TBA*     TBA                          0   0    n/a   0   0 K&L  FULL   
+
+Math     399       UNIVERSITY TEACHING
+    CCode Typ Sec Unt  Instructor       Time                 Place     Final                      Max Enr     WL Req Nor Rstr Status 
+    45990 TUT A   1-4  LOWENGRUB, J.    *TBA*                *TBA*     TBA                         50   0    n/a   0   0 X&S  OPEN   
+
+
+*** Total Classes Displayed: 310
+    Values in the "Enr" column like "0/0" show "section / joint" enrollment
+	totals for cross-listed courses.
+    The column headings above are defined at:
+	    https://www.reg.uci.edu/help/WebSoc-Columns.shtml
+    Course textbooks link:
+	    http://book.uci.edu/
+    Building Abbreviations:
+	    http://www.reg.uci.edu/uci/rooms
+    Campus map:
+	    http://www.uci.edu/campusmap
+
+Restriction Codes from the 'Rst' column above:
+    A: Prerequisite required
+    D: Pass/not pass option only
+    K: Graduate only
+    L: Major only
+    N: School major only
+    S: Satisfactory/unsatisfactory only
+    X: Separate authorization codes required to add, drop, or change enrollment
